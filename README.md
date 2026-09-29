@@ -1,5 +1,5 @@
 # JailbreakKit
-it works with DeepSeek, Qwen, and several other neural networks.
+it works with DeepSeek, Qwen, Claude and several other neural networks.
 
 #1
 THE GROUND
